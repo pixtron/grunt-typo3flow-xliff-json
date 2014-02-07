@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Stefan Aebischer",
+    "email": "typo3@pixtron.ch"
+  },
+  "name": "grunt-typo3flow-xliff-json",
+  "version": "0.0.1",
+  "description": "Grunt task to convert typo3 flow xliff files to json files",
+  "bugs": {
+    "url": "https://github.com/pAlpha627/grunt-typo3flow-xliff-json/issues"
+  },
+  "homepage": "https://github.com/pAlpha627/grunt-typo3flow-xliff-json",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "TYPO3",
+    "Flow",
+    "xliff",
+    "json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pAlpha627/grunt-typo3flow-xliff-json"
+  },
+  "dependencies": {
+    "xliff2json": "0.0.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "readmeFilename": "README.md"
+}
